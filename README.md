@@ -10,7 +10,7 @@ I'm a final semester students at <a href="https://www.bing.com/ck/a?!&&p=ab084ca
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - 🔭 I'm currently learning more about the world of machine learning
-- 🌱 "Make Every Path, If There Is No Way"
+- 🌱 "Make A Way, If There Is No Way"
 
 <!-- ## ⚙ Latest Projects
 |  | |
