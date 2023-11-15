@@ -6,7 +6,7 @@
 
 <br>
 
-I'm a final semester students at <a href="https://www.bing.com/ck/a?!&&p=ab084cace413acf1JmltdHM9MTY2OTA3NTIwMCZpZ3VpZD0zYTVmMmM5YS1mMTVlLTZhOTEtMDFlZC0zZWFlZjAwODZiYTUmaW5zaWQ9NTE4MA&ptn=3&hsh=3&fclid=3a5f2c9a-f15e-6a91-01ed-3eaef0086ba5&psq=politeknik+negeri+lampung&u=a1aHR0cHM6Ly9wb2xpbmVsYS5hYy5pZC8&ntb=1" target="_blank">Politeknik Negeri Lampung</a>, Indonesia. 
+I'm a freshgraduate from <a href="https://www.bing.com/ck/a?!&&p=ab084cace413acf1JmltdHM9MTY2OTA3NTIwMCZpZ3VpZD0zYTVmMmM5YS1mMTVlLTZhOTEtMDFlZC0zZWFlZjAwODZiYTUmaW5zaWQ9NTE4MA&ptn=3&hsh=3&fclid=3a5f2c9a-f15e-6a91-01ed-3eaef0086ba5&psq=politeknik+negeri+lampung&u=a1aHR0cHM6Ly9wb2xpbmVsYS5hYy5pZC8&ntb=1" target="_blank">Politeknik Negeri Lampung</a>, Indonesia. 
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - 🔭 I'm currently learning more about the world of machine learning
